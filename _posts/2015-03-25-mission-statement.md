@@ -2,55 +2,23 @@
 title: "Mission Statement"
 ---
 
-With Shiori, you can take advantage of all the available components in Bootstrap. Here are some useful components for blogging.
+Warum schreibt jemand ein Blog? Diese Frage beschäftigt mich schon länger. Speziell, wenn man sich in der Community der Softwareentwicklung umsieht ist dies doch auf den ersten Blick ein Paradox. Viele Entwickler, die ein Blog unterhalten, geben doch ihren (mehr oder weniger) direkten Konkurrenten Informationen die ihrer täglichen Arbeit helfen. Warum machen diese Leute das also?
 
-## Buttons and Font Awesome
+## Google-driven Development
 
-Shiori automatically imports the latest version of [Font Awesome](http://fortawesome.github.io/Font-Awesome). You can use it with `button`s like so:
+Ich glaube, diese Leute haben vielen aus unserer Branche etwas vorraus. Sie haben erkannt, dass Kollaboration an den richtigen Stellen mehr einbringt als stures Festhalten an altem Konkurrenzdenken.
 
-<button type="button" class="btn btn-primary"><i class="fa fa-twitter"></i> Tweet</button>
-<button type="button" class="btn btn-default"><i class="fa fa-envelope-o"></i> Email</button>
+Wenn ich mir meine tägliche Arbeit und die vieler Kollegen anschaue, nutzen diese, zumindest in Infrastrukturdingen, Open Source. Dadurch teilt man sich die Kosten für die Dinge, die ohnehin alle machen müssen. Dies fängt beim Betriebssystem an und hört bei Komponenten wie Applikationsinfrastruktur, Serversoftware und bunten Webdingen nicht auf.
 
-## Text Helpers
+An manchen Tagen verbringen viele von uns Entwicklern mehr Zeit damit zu nach Problemen zu googlen oder Blogs auf der Suche nach Lösungen zu durchsuchen. Man könnte diesen Arbeitsstil auch Google-driven Development nennen. Die Tools teilen wir uns und die Informationen dazu kommen aus dem Netz.
 
-You can use text helper classes to modify text easily. Documentations [here](http://getbootstrap.com/css/#helper-classes-colors) and [here](http://getbootstrap.com/css/#type-alignment).
 
-<p class="text-muted">Use <code>text-muted</code> to mute text color.</p>
+## Konzentration aufs Wesentliche
 
-<p class="lead">Use <code>lead</code> to for call-out text.</p>
+Warum machen wir das so? Weil wir uns auf die eigentlichen Probleme konzentrieren wollen. Mein Lösung meiner Aufgabe ist nicht, die Dependency Injection von Spring besonders toll zu nutzen. Normalerweise will ich in der IT ein Problem von jemand anders lösen. Wir wollen unsere Probleme also auf das Wesentlich reduzieren und kollaborieren also mit allen möglich Leute. Auch denen von der Konkurrenz.
 
-<p class="text-center">Use <code>text-center</code> to center text.</p>
+## Fazit
 
-## Alerts
+Warum schreibt man also als Software Entwickler ein Blog? Die Frage müsste eher lauten: Warum nicht? Ich teile mit den anderen die Infrastruktur. Also kann ich auch die Probleme mit ihnen teilen.
 
-<div class="alert alert-success" role="alert">Alerts can be useful too!</div>
-
-## Responsive Embed
-
-Add `embed-responsive` and either `embed-responsive-16by9` or `embed-responsive-4by3` classes to make embedded objects responsive.
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="1280" height="720" src="//www.youtube.com/embed/J_vGbXDAvmQ?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-## JavaScript Components
-
-You can use all of the JavaScript components included by Bootstrap. Example: <a data-toggle="modal" data-target="#myModal" href="#">A modal dialog.</a>
-
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title">Modal Dialog</h4>
-      </div>
-      <div class="modal-body">
-        <p>Hello World!</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-## Customizing Bootstrap
-
-Shiori uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass), so all of the variables are customizable. To learn more, check out Shiori's [README](http://github.com/ellekasai/shiori/).
+Daher möchte ich in diesem Blog Probleme aufgreifen, die andere garantiert auch haben. Aber bisher wie ich nichts gefunden haben, wo man drüber lesen oder diskutieren kann. Also Türen auf, kommt herein.
