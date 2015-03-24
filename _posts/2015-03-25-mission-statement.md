@@ -15,7 +15,7 @@ An manchen Tagen verbringen viele von uns Entwicklern mehr Zeit damit zu nach Pr
 
 ## Konzentration aufs Wesentliche
 
-Warum machen wir das so? Weil wir uns auf die eigentlichen Probleme konzentrieren wollen. Mein Lösung meiner Aufgabe ist nicht, die Dependency Injection von Spring besonders toll zu nutzen. Normalerweise will ich in der IT ein Problem von jemand anders lösen. Wir wollen unsere Probleme also auf das Wesentlich reduzieren und kollaborieren also mit allen möglich Leute. Auch denen von der Konkurrenz.
+Warum machen wir das so? Weil wir uns auf die eigentlichen Probleme konzentrieren wollen. Mein Lösung meiner Aufgabe ist nicht, die Dependency Injection von Spring besonders toll zu nutzen. Normalerweise will ich in der IT ein Problem von jemand anders lösen. Wir wollen unsere Probleme also auf das Wesentlich reduzieren und kollaborieren also mit allen möglich Leuten. Auch denen von der Konkurrenz.
 
 ## Fazit
 
