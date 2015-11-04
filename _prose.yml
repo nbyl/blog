@@ -1,0 +1,15 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://blog.nicolas-byl.eu/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
