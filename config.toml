@@ -1,0 +1,14 @@
+baseURL = "https://nbyl-blog.netlify.com"
+languageCode = "de-DE"
+title = "Build.Test.Deploy"
+
+theme = "dream"
+
+defaultContentLanguage = "en"
+
+[params]
+author = "Nicolas Byl"
+avatar = "https://avatars3.githubusercontent.com/u/1185719?v=3&s=150"
+github = "nbyl"
+linkedin = "nicolas-byl-67ab43125"
+
