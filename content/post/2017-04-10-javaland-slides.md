@@ -1,6 +1,8 @@
 ---
 date: "2017-04-10T00:00:00Z"
 title: Folien zum JavaLand Workshop
+cover: /images/summary/kubernetes.jpg
+tags: ["kubernetes", "schulungen"]
 ---
 
 Liebe Teilnehmerinnen und Teilnehmer,

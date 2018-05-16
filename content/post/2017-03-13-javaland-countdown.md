@@ -1,6 +1,8 @@
 ---
 date: "2017-03-13T00:00:00Z"
 title: Workshop "Steuermann an Bord - Kubernetes Hands-On" auf der JavaLand 2017
+cover: /images/summary/kubernetes.jpg
+tags: ["kubernetes", "schulungen"]
 ---
 
 Liebe Teilnehmerinnen und Teilnehmer,

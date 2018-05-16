@@ -1,6 +1,8 @@
 ---
 date: "2017-02-10T00:00:00Z"
 title: Workshop "Continuous Delivery on the Kubernetes Plattform" at microXchg 2017
+cover: /images/summary/kubernetes.jpg
+tags: ["kubernetes", "schulungen"]
 ---
 
 On February 16th, I will give a [workshop at microXchg 2017 about "Continuous Delivery on the Kubernetes Platform"](http://sched.co/93vH). During this talk we will build a continuous delivery pipeline on kubernetes using the tools mentioned in the abstract. The code will be published step-by-step during the event on a [github repository](https://github.com/nbyl/cd-workshop-demo). You will have the chance to follow the pipeline on your device during the talk.
