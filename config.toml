@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://nbyl-blog.netlify.com"
+languageCode = "de-DE"
+title = "Build.Test.Deploy"
 
 theme = "ananke"

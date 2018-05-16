@@ -6,9 +6,52 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Folien zum JavaLand Workshop</title>
+      <link>http://example.org/post/2017-04-10-javaland-slides/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2017-04-10-javaland-slides/</guid>
+      <description>Liebe Teilnehmerinnen und Teilnehmer,
+vielen Dank für Ihre Interesse am Workshop &amp;ldquo;Steuermann an Bord - Kubernetes Hands-On&amp;rdquo; auf dem JavaLand 2017. Wie versprochen wollte ich Ihnen noch die Folien und Musterlösungen für die Labs zukommen lassen. Diese finden Sie unter folgenden Links:
+ Folien Labs  Mit freundlichen Grüßen
+Nicolas Byl</description>
+    </item>
+    
+    <item>
+      <title>Workshop &#34;Steuermann an Bord - Kubernetes Hands-On&#34; auf der JavaLand 2017</title>
+      <link>http://example.org/post/2017-03-13-javaland-countdown/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2017-03-13-javaland-countdown/</guid>
+      <description>Liebe Teilnehmerinnen und Teilnehmer,
+vielen Dank für Ihr Interesse am Workshop &amp;ldquo;Steuermann an Bord - Kubernetes Hands-On&amp;rdquo;, welcher am 30.03.2017 auf der JavaLand stattfinden wird. Ich bin bereits gespannt und freue mich Sie an diesem Tag mit Kubernetes vertraut zu machen.
+Im Rahmen des Workshops werden wir verschiedene Übungen durchführen, die Ihnen Kubernetes auch praktisch näher bringen sollen. Dazu werden wir in kleinen Teams Aufgaben umsetzen, bei denen Sie die Theorie auch anwenden können.</description>
+    </item>
+    
+    <item>
+      <title>Workshop &#34;Continuous Delivery on the Kubernetes Plattform&#34; at microXchg 2017</title>
+      <link>http://example.org/post/2017-02-10-microxchg-countdown/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2017-02-10-microxchg-countdown/</guid>
+      <description>On February 16th, I will give a workshop at microXchg 2017 about &amp;ldquo;Continuous Delivery on the Kubernetes Platform&amp;rdquo;. During this talk we will build a continuous delivery pipeline on kubernetes using the tools mentioned in the abstract. The code will be published step-by-step during the event on a github repository. You will have the chance to follow the pipeline on your device during the talk.
+As there will be limited internet bandwidth at the location, I have already published the first lab where we will setup kubernetes and jenkins.</description>
+    </item>
+    
+    <item>
+      <title>Folien BED-CON 2015</title>
+      <link>http://example.org/post/2015-09-18-bedcon-slides/</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2015-09-18-bedcon-slides/</guid>
+      <description>Die Folien meines Vortrags auf der BED-CON 2015 können hier angeschaut werden.</description>
+    </item>
     
   </channel>
 </rss>
